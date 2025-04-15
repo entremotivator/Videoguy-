@@ -1,3 +1,4 @@
 streamlit
 ffmpeg-python
-
+opencv-python
+opencv-contrib-python 
